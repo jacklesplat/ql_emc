@@ -1,0 +1,3 @@
+Redirected to new domain,http://beta.quickenloans.com/my-mortgage/calculator/purchase
+Redirected to new domain,http://beta.quickenloans.com/my-mortgage/calculator/refinance
+404,http://beta.quickenloans.com/about/press-room from http://beta.quickenloans.com

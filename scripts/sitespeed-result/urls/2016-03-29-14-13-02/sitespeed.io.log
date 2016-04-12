@@ -1,0 +1,5 @@
+2016-03-29T18:13:02.981Z - info: [sitespeed] OS: 'darwin 14.5.0', Node.js: 'v5.8.0', sitespeed.io: '3.11.5', PhantomJS: '2.1.1', java: '1.8.0_45', browsertime: '0.12.2'
+2016-03-29T18:13:03.014Z - info: [sitespeed] Will analyze 1 page
+2016-03-29T18:13:03.016Z - info: [sitespeed] Running YSlow for https://www.quickenloans.com/mortgage-application/four-steps [phantomjs]
+2016-03-29T18:15:57.901Z - info: [sitespeed] Queueing browsertime for https://www.quickenloans.com/mortgage-application/four-steps firefox
+2016-03-29T18:15:57.902Z - info: [sitespeed] Running browsertime for firefox https://www.quickenloans.com/mortgage-application/four-steps

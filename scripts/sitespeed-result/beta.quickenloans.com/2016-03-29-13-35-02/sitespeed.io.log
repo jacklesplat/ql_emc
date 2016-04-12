@@ -1,0 +1,148 @@
+2016-03-29T17:35:03.066Z - info: [sitespeed] OS: 'darwin 14.5.0', Node.js: 'v5.8.0', sitespeed.io: '3.11.5', PhantomJS: '2.1.1', java: '1.8.0_45', browsertime: '0.12.2'
+2016-03-29T17:35:03.126Z - info: [sitespeed] Will crawl from start point http://beta.quickenloans.com with crawl depth 1
+2016-03-29T17:35:05.783Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:05 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272904; path=/". Negative max-age attribute: -1459272904
+
+2016-03-29T17:35:05.858Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:05 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272904; path=/". Negative max-age attribute: -1459272904
+
+2016-03-29T17:35:05.929Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:05 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272904; path=/". Negative max-age attribute: -1459272904
+
+2016-03-29T17:35:06.370Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:06 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272905; path=/". Negative max-age attribute: -1459272905
+
+2016-03-29T17:35:06.379Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:06 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272905; path=/". Negative max-age attribute: -1459272905
+
+2016-03-29T17:35:06.390Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:06 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272905; path=/". Negative max-age attribute: -1459272905
+
+2016-03-29T17:35:06.479Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:06 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272905; path=/". Negative max-age attribute: -1459272905
+
+2016-03-29T17:35:06.502Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:06 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272905; path=/". Negative max-age attribute: -1459272905
+
+2016-03-29T17:35:06.671Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:06 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272905; path=/". Negative max-age attribute: -1459272905
+
+2016-03-29T17:35:06.718Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:06 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272905; path=/". Negative max-age attribute: -1459272905
+
+2016-03-29T17:35:06.848Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:06 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272905; path=/". Negative max-age attribute: -1459272905
+
+2016-03-29T17:35:06.870Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:06 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272905; path=/". Negative max-age attribute: -1459272905
+
+2016-03-29T17:35:06.876Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:06 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272905; path=/". Negative max-age attribute: -1459272905
+
+2016-03-29T17:35:07.025Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:07 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272905; path=/". Negative max-age attribute: -1459272905
+
+2016-03-29T17:35:07.193Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:07 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272906; path=/". Negative max-age attribute: -1459272906
+
+2016-03-29T17:35:07.221Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:07 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272906; path=/". Negative max-age attribute: -1459272906
+
+2016-03-29T17:35:07.228Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:07 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272906; path=/". Negative max-age attribute: -1459272906
+
+2016-03-29T17:35:07.283Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:07 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272906; path=/". Negative max-age attribute: -1459272906
+
+2016-03-29T17:35:07.427Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:07 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272906; path=/". Negative max-age attribute: -1459272906
+
+2016-03-29T17:35:07.442Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:07 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272906; path=/". Negative max-age attribute: -1459272906
+
+2016-03-29T17:35:07.461Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:07 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272906; path=/". Negative max-age attribute: -1459272906
+
+2016-03-29T17:35:07.585Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:07 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272906; path=/". Negative max-age attribute: -1459272906
+
+2016-03-29T17:35:07.661Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:07 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272906; path=/". Negative max-age attribute: -1459272906
+
+2016-03-29T17:35:07.667Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:07 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272906; path=/". Negative max-age attribute: -1459272906
+
+2016-03-29T17:35:07.703Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:07 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272906; path=/". Negative max-age attribute: -1459272906
+
+2016-03-29T17:35:07.876Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:07 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272906; path=/". Negative max-age attribute: -1459272906
+
+2016-03-29T17:35:07.884Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:07 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272906; path=/". Negative max-age attribute: -1459272906
+
+2016-03-29T17:35:07.975Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:07 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272906; path=/". Negative max-age attribute: -1459272906
+
+2016-03-29T17:35:08.256Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:08 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272907; path=/". Negative max-age attribute: -1459272907
+
+2016-03-29T17:35:08.433Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:08 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272907; path=/". Negative max-age attribute: -1459272907
+
+2016-03-29T17:35:08.454Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:08 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272907; path=/". Negative max-age attribute: -1459272907
+
+2016-03-29T17:35:08.484Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:08 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272907; path=/". Negative max-age attribute: -1459272907
+
+2016-03-29T17:35:08.496Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:08 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272907; path=/". Negative max-age attribute: -1459272907
+
+2016-03-29T17:35:08.879Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:08 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272907; path=/". Negative max-age attribute: -1459272907
+
+2016-03-29T17:35:09.181Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:09 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272908; path=/". Negative max-age attribute: -1459272908
+
+2016-03-29T17:35:09.213Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:09 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272908; path=/". Negative max-age attribute: -1459272908
+
+2016-03-29T17:35:09.232Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:09 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272908; path=/". Negative max-age attribute: -1459272908
+
+2016-03-29T17:35:09.434Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:09 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272908; path=/". Negative max-age attribute: -1459272908
+
+2016-03-29T17:35:09.567Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:09 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272908; path=/". Negative max-age attribute: -1459272908
+
+2016-03-29T17:35:09.584Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:09 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272908; path=/". Negative max-age attribute: -1459272908
+
+2016-03-29T17:35:09.709Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:09 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272908; path=/". Negative max-age attribute: -1459272908
+
+2016-03-29T17:35:10.963Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:10 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272908; path=/". Negative max-age attribute: -1459272908
+
+2016-03-29T17:35:27.469Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:27 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272926; path=/". Negative max-age attribute: -1459272926
+
+2016-03-29T17:35:27.898Z - error: [sitespeed] Error from the crawl: Mar 29, 2016 1:35:27 PM org.apache.http.client.protocol.ResponseProcessCookies processCookies
+WARNING: Invalid cookie header: "Set-Cookie: ADRUM_BT=; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=-1459272926; path=/". Negative max-age attribute: -1459272926
+
+2016-03-29T17:35:28.017Z - error: [sitespeed] Failed to download http://beta.quickenloans.com/my-mortgage/calculator/purchase
+2016-03-29T17:35:28.018Z - error: [sitespeed] Failed to download http://beta.quickenloans.com/my-mortgage/calculator/refinance
+2016-03-29T17:35:28.018Z - error: [sitespeed] Failed to download http://beta.quickenloans.com/about/press-room from http://beta.quickenloans.com
+2016-03-29T17:35:28.019Z - info: [sitespeed] Will analyze 44 pages
+2016-03-29T17:35:28.021Z - info: [sitespeed] Running YSlow for http://beta.quickenloans.com [phantomjs]
+2016-03-29T17:35:28.025Z - info: [sitespeed] Running YSlow for http://beta.quickenloans.com/about/legal/email-policy [phantomjs]
+2016-03-29T17:35:28.026Z - info: [sitespeed] Running YSlow for http://beta.quickenloans.com/home-buying/contact [phantomjs]
+2016-03-29T17:35:28.028Z - info: [sitespeed] Running YSlow for http://beta.quickenloans.com/about/legal/disclosures-licenses [phantomjs]
+2016-03-29T17:35:28.029Z - info: [sitespeed] Running YSlow for http://beta.quickenloans.com/refinance/refinance-rates [phantomjs]
+2016-03-29T17:35:48.127Z - info: [sitespeed] Running YSlow for http://beta.quickenloans.com/home-buying [phantomjs]
+2016-03-29T17:35:48.730Z - info: [sitespeed] Running YSlow for http://beta.quickenloans.com/home-loans/jumbo-mortgage [phantomjs]
+2016-03-29T17:35:49.181Z - info: [sitespeed] Running YSlow for http://beta.quickenloans.com/home-loans/va-loan [phantomjs]
+2016-03-29T17:35:52.655Z - info: [sitespeed] Running YSlow for http://beta.quickenloans.com/refinance/consolidate-debt [phantomjs]
+2016-03-29T17:35:56.557Z - info: [sitespeed] Running YSlow for http://beta.quickenloans.com/home-loans/fha-loan [phantomjs]

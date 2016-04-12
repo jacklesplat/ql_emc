@@ -1,0 +1,14 @@
+2016-03-29T18:15:57.383Z - info: stdout:Unable to find conf/bmp-logging.properties. Using default logging configuration.
+
+2016-03-29T18:15:57.699Z - error: stderr:INFO 03/29 18:15:57 n.l.b.p.Main         - Starting BrowserMob Proxy version 2.0.0
+
+2016-03-29T18:15:57.732Z - error: stderr:INFO 03/29 18:15:57 o.e.j.u.log          - jetty-2.0.0
+
+2016-03-29T18:15:57.758Z - error: stderr:INFO 03/29 18:15:57 o.e.j.u.log          - started o.e.j.s.ServletContextHandler{/,null}
+
+2016-03-29T18:15:57.900Z - error: stderr:INFO 03/29 18:15:57 o.e.j.u.log          - Started SelectChannelConnector@0.0.0.0:2001
+
+2016-03-29T18:17:13.146Z - error: Error: connect ETIMEDOUT 10.22.97.76:2001
+    at Object.exports._errnoException (util.js:890:11)
+    at exports._exceptionWithHostPort (util.js:913:20)
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1057:14)

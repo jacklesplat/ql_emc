@@ -1,0 +1,21 @@
+2016-03-28T19:50:38.371Z - info: [sitespeed] OS: 'darwin 14.5.0', Node.js: 'v5.8.0', sitespeed.io: '3.11.5', PhantomJS: '2.1.1', java: '1.8.0_45', browsertime: '0.12.2'
+2016-03-28T19:50:38.404Z - info: [sitespeed] Will analyze 1 page
+2016-03-28T19:50:38.406Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/mortgage-application/four-steps [phantomjs]
+2016-03-28T19:51:08.720Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/mortgage-application/four-steps pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T19:51:08.844Z - error: [sitespeed] WebPageTest couldn't fetch info for url http://www.quickenloans.com/mortgage-application/four-steps{ statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T19:51:08.844Z - error: [sitespeed] Error running WebPageTest: { statusCode: 400,
+  statusText: 'The test request will exceed the daily test limit for the given API key' }
+2016-03-28T19:51:09.090Z - info: [sitespeed] Done analyzing urls
+2016-03-28T19:51:09.313Z - info: [sitespeed] Sending data to Graphite host:127.0.0.1 port:2003
+2016-03-28T19:51:09.317Z - info: [sitespeed] Wrote file assets.html
+2016-03-28T19:51:09.317Z - info: [sitespeed] Wrote file pages.html
+2016-03-28T19:51:09.317Z - info: [sitespeed] Wrote file domains.html
+2016-03-28T19:51:09.317Z - info: [sitespeed] Wrote file rules.html
+2016-03-28T19:51:09.317Z - info: [sitespeed] Wrote file detailed-site-summary.html
+2016-03-28T19:51:09.317Z - info: [sitespeed] Wrote file hotlist.html
+2016-03-28T19:51:09.317Z - info: [sitespeed] Wrote file errors.html
+2016-03-28T19:51:09.317Z - info: [sitespeed] Wrote file index.html
+2016-03-28T19:51:09.317Z - info: [sitespeed] Wrote file www_quickenloans_com-mortgage-application-four-steps.html
+2016-03-28T19:51:09.325Z - info: [sitespeed] Wrote results to /Users/epelkey/work/scripts/sitespeed-result/urls/2016-03-28-15-50-38
+2016-03-28T19:51:09.328Z - info: [sitespeed] The analyze took a few seconds (30 seconds)

@@ -1,0 +1,117 @@
+<div class="tabbed-view-header">
+	<h2 class="tabbed-view-title">
+		Settings
+	</h2>
+
+	<ul class="gf-tabs">
+		<li class="gf-tabs-item" ng-repeat="tab in ::['General', 'Rows', 'Links', 'Time picker', 'Metadata']">
+			<a class="gf-tabs-link" ng-click="editor.index = $index" ng-class="{active: editor.index === $index}">
+				{{::tab}}
+			</a>
+		</li>
+	</ul>
+
+	<button class="tabbed-view-close-btn" ng-click="dismiss();">
+		<i class="fa fa-remove"></i>
+	</button>
+</div>
+
+<div class="tabbed-view-body">
+	<div ng-if="editor.index == 0">
+
+		<div class="gf-form-group">
+			<div class="gf-form">
+				<label class="gf-form-label width-7">Title</label>
+				<input type="text" class="gf-form-input max-width-25" ng-model='dashboard.title'></input>
+			</div>
+			<div class="gf-form">
+				<label class="gf-form-label width-7">Tags<tip>Press enter to a add tag</tip></label>
+				<bootstrap-tagsinput ng-model="dashboard.tags" tagclass="label label-tag" placeholder="add tags">
+				</bootstrap-tagsinput>
+			</div>
+
+			<div class="gf-form">
+				<label class="gf-form-label width-7">Timezone</label>
+				<div class="gf-form-select-wrapper">
+					<select ng-model="dashboard.timezone" class='gf-form-input' ng-options="f for f in ['browser','utc']"></select>
+				</div>
+			</div>
+		</div>
+
+		<h5 class="section-heading">On/Off Toggles</h5>
+		<div class="gf-form-group">
+			<div class="gf-form-inline">
+				<div class="gf-form">
+					<editor-checkbox text="Editable" model="dashboard.editable"></editor-checkbox>
+				</div>
+				<div class="gf-form">
+					<editor-checkbox text="Hide Controls (CTRL+H)" model="dashboard.hideControls"></editor-checkbox>
+				</div>
+				<div class="gf-form">
+					<editor-checkbox text="Shared Crosshair (CTRL+O)" model="dashboard.sharedCrosshair"></editor-checkbox>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div ng-if="editor.index == 1">
+		<h5 class="section-heading">Rows settings</h5>
+
+		<div class="gf-form-group">
+			<div class="gf-form-inline" ng-repeat="row in dashboard.rows">
+				<div class="gf-form">
+					<span class="gf-form-label">Title</span>
+					<input type="text" class="gf-form-input max-width-14" ng-model='row.title'></input>
+					<editor-checkbox text="Show title" model="row.showTitle"></editor-checkbox>
+				</div>
+
+				<div class="gf-form">
+					<button class="btn btn-inverse btn-mini" style="margin-right: 5px;" ng-click="dashboard.rows = _.without(dashboard.rows,row)">
+						<i class="fa fa-trash"></i>
+					</button>
+					<button class="btn btn-inverse btn-mini" ng-hide="$first" style="margin-right: 5px;" ng-click="_.move(dashboard.rows,$index,$index-1)">
+						<i ng-class="{'invisible': $first}" class="fa fa-arrow-up"></i>
+					</button>
+					<button class="btn btn-inverse btn-mini" ng-hide="$last" style="margin-right: 5px;" ng-click="_.move(dashboard.rows,$index,$index+1)">
+						<i ng-class="{'invisible': $last}" class="fa fa-arrow-down"></i>
+					</button>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div ng-if="editor.index == 2">
+		<dash-links-editor></dash-links-editor>
+	</div>
+
+	<div ng-if="editor.index == 3">
+		<gf-time-picker-settings dashboard="dashboard"></gf-time-picker-settings>
+	</div>
+
+	<div ng-if="editor.index == 4">
+		<h5 class="section-heading">Dashboard info</h5>
+		<div class="gf-form-group">
+			<div class="gf-form">
+				<span class="gf-form-label width-10">Last updated at:</span>
+				<span class="gf-form-label width-18">{{formatDate(dashboardMeta.updated)}}</span>
+			</div>
+			<div class="gf-form">
+				<span class="gf-form-label width-10">Last updated by:</span>
+				<span class="gf-form-label width-18">{{dashboardMeta.updatedBy}}&nbsp;</span>
+			</div>
+			<div class="gf-form">
+				<span class="gf-form-label width-10">Created at:</span>
+				<span class="gf-form-label width-18">{{formatDate(dashboardMeta.created)}}&nbsp;</span>
+			</div>
+			<div class="gf-form">
+				<span class="gf-form-label width-10">Created by:</span>
+				<span class="gf-form-label width-18">{{dashboardMeta.createdBy}}&nbsp;</span>
+			</div>
+			<div class="gf-form">
+				<span class="gf-form-label width-10">Current version:</span>
+				<span class="gf-form-label width-18">{{dashboardMeta.version}}&nbsp;</span>
+			</div>
+		</div>
+	</div>
+</div>
+

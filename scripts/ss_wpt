@@ -1,0 +1,6 @@
+sitespeed.io \
+-f urls \
+--wptKey A.3680baa76511ce4c5dd988918c835cf6 \
+--graphiteHost 127.0.0.1 \
+--graphiteNamespace dulles.chrome \
+-n 1

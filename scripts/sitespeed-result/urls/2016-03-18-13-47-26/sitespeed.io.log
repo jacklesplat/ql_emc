@@ -1,0 +1,15 @@
+2016-03-18T17:47:26.325Z - info: [sitespeed] OS: 'darwin 14.5.0', Node.js: 'v5.8.0', sitespeed.io: '3.11.5', PhantomJS: '2.1.1', java: '1.8.0_45', browsertime: '0.12.2'
+2016-03-18T17:47:26.352Z - info: [sitespeed] Will analyze 1 page
+2016-03-18T17:47:26.354Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/mortgage-application/four-steps [phantomjs]
+2016-03-18T17:47:52.920Z - info: [sitespeed] Done analyzing urls
+2016-03-18T17:47:53.141Z - info: [sitespeed] Sending data to Graphite host:localhost port:2003
+2016-03-18T17:47:53.142Z - info: [sitespeed] Wrote file errors.html
+2016-03-18T17:47:53.142Z - info: [sitespeed] Wrote file assets.html
+2016-03-18T17:47:53.142Z - info: [sitespeed] Wrote file rules.html
+2016-03-18T17:47:53.143Z - info: [sitespeed] Wrote file pages.html
+2016-03-18T17:47:53.143Z - info: [sitespeed] Wrote file hotlist.html
+2016-03-18T17:47:53.143Z - info: [sitespeed] Wrote file index.html
+2016-03-18T17:47:53.143Z - info: [sitespeed] Wrote file detailed-site-summary.html
+2016-03-18T17:47:53.144Z - info: [sitespeed] Wrote file www_quickenloans_com-mortgage-application-four-steps.html
+2016-03-18T17:47:53.155Z - info: [sitespeed] Wrote results to /Users/epelkey/work/scripts/sitespeed-result/urls/2016-03-18-13-47-26
+2016-03-18T17:47:53.159Z - info: [sitespeed] The analyze took a few seconds (26 seconds)

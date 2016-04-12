@@ -1,0 +1,17 @@
+2016-03-29T15:26:05.398Z - info: [sitespeed] OS: 'darwin 14.5.0', Node.js: 'v5.8.0', sitespeed.io: '3.11.5', PhantomJS: '2.1.1', java: '1.8.0_45', browsertime: '0.12.2'
+2016-03-29T15:26:05.430Z - info: [sitespeed] Will analyze 1 page
+2016-03-29T15:26:05.432Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/mortgage-application/four-steps [phantomjs]
+2016-03-29T15:26:23.542Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/mortgage-application/four-steps pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-29T15:27:08.123Z - info: [sitespeed] Done analyzing urls
+2016-03-29T15:27:08.384Z - error: [sitespeed] Couldn't send data to Graphite:Error: connect ECONNREFUSED 127.0.0.1:2003 for host:127.0.0.1 port:2003
+2016-03-29T15:27:08.385Z - info: [sitespeed] Wrote file assets.html
+2016-03-29T15:27:08.385Z - info: [sitespeed] Wrote file domains.html
+2016-03-29T15:27:08.386Z - info: [sitespeed] Wrote file hotlist.html
+2016-03-29T15:27:08.386Z - info: [sitespeed] Wrote file errors.html
+2016-03-29T15:27:08.386Z - info: [sitespeed] Wrote file pages.html
+2016-03-29T15:27:08.386Z - info: [sitespeed] Wrote file rules.html
+2016-03-29T15:27:08.386Z - info: [sitespeed] Wrote file index.html
+2016-03-29T15:27:08.386Z - info: [sitespeed] Wrote file detailed-site-summary.html
+2016-03-29T15:27:08.386Z - info: [sitespeed] Wrote file www_quickenloans_com-mortgage-application-four-steps.html
+2016-03-29T15:27:08.404Z - info: [sitespeed] Wrote results to /Users/epelkey/work/scripts/sitespeed-result/urls/2016-03-29-11-26-05
+2016-03-29T15:27:08.408Z - info: [sitespeed] The analyze took a minute (62 seconds)

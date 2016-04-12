@@ -1,0 +1,6 @@
+influxdb:
+  image: tutum/influxdb:latest
+  ports:
+    - "2004:2004"
+    - "8083:8083"
+    - "8086:8086"

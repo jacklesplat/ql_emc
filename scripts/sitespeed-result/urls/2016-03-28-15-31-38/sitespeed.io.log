@@ -1,0 +1,25 @@
+2016-03-28T19:31:38.992Z - info: [sitespeed] OS: 'darwin 14.5.0', Node.js: 'v5.8.0', sitespeed.io: '3.11.5', PhantomJS: '2.1.1', java: '1.8.0_45', browsertime: '0.12.2'
+2016-03-28T19:31:39.024Z - info: [sitespeed] Will analyze 1 page
+2016-03-28T19:31:39.026Z - info: [sitespeed] Running YSlow for http://www.quickenloans.com/mortgage-application/four-steps [phantomjs]
+2016-03-28T19:32:06.548Z - info: [sitespeed] Running WebPageTest http://www.quickenloans.com/mortgage-application/four-steps pollResults=10, timeout=600, firstViewOnly=false, runs=3, private=true, aftRenderingTime=true, location=Dulles:Chrome, connectivity=Cable, video=true
+2016-03-28T19:32:06.990Z - error: [sitespeed] WebPageTest couldn't fetch info for url sitespeed.io \
+-f urls \
+--wptKey A.3680baa76511ce4c5dd988918c835cf6 \
+--graphiteHost 127.0.0.1 \
+--graphiteNamespace dulles.chrome \
+-n 1{ statusCode: 400,
+  statusText: 'An error occurred processing your request (missing API key).  If you do not have an API key assigned you can request one at http://www.webpagetest.org/getkey.php' }
+2016-03-28T19:32:06.990Z - error: [sitespeed] Error running WebPageTest: { statusCode: 400,
+  statusText: 'An error occurred processing your request (missing API key).  If you do not have an API key assigned you can request one at http://www.webpagetest.org/getkey.php' }
+2016-03-28T19:32:07.246Z - info: [sitespeed] Done analyzing urls
+2016-03-28T19:32:07.481Z - info: [sitespeed] Wrote file errors.html
+2016-03-28T19:32:07.481Z - info: [sitespeed] Wrote file domains.html
+2016-03-28T19:32:07.481Z - info: [sitespeed] Wrote file hotlist.html
+2016-03-28T19:32:07.481Z - info: [sitespeed] Wrote file assets.html
+2016-03-28T19:32:07.481Z - info: [sitespeed] Wrote file pages.html
+2016-03-28T19:32:07.481Z - info: [sitespeed] Wrote file index.html
+2016-03-28T19:32:07.481Z - info: [sitespeed] Wrote file rules.html
+2016-03-28T19:32:07.481Z - info: [sitespeed] Wrote file detailed-site-summary.html
+2016-03-28T19:32:07.482Z - info: [sitespeed] Wrote file www_quickenloans_com-mortgage-application-four-steps.html
+2016-03-28T19:32:07.492Z - info: [sitespeed] Wrote results to /Users/epelkey/work/scripts/sitespeed-result/urls/2016-03-28-15-31-38
+2016-03-28T19:32:07.495Z - info: [sitespeed] The analyze took a few seconds (28 seconds)
